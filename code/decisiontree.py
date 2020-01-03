@@ -223,6 +223,3 @@ class DecisionTree:
         # plot the tree using matplotlib
         import treePlotter
         treePlotter.createPlot(self._tree)
-
-
-
